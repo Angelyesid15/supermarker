@@ -1,0 +1,15 @@
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0\Supermarket-mvp.exe
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0\Supermarket-mvp.deps.json
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0\Supermarket-mvp.runtimeconfig.json
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0\Supermarket-mvp.dll
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0\Supermarket-mvp.pdb
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\Supermarket-mvp.csproj.AssemblyReference.cache
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\Supermarket-mvp.AssemblyInfoInputs.cache
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\Supermarket-mvp.AssemblyInfo.cs
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\Supermarket-mvp.csproj.CoreCompileInputs.cache
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\Supermarket-mvp.dll
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\refint\Supermarket-mvp.dll
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\Supermarket-mvp.pdb
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\Supermarket-mvp.genruntimeconfig.cache
+C:\Users\angel.campino\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0\ref\Supermarket-mvp.dll
